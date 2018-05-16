@@ -1,0 +1,203 @@
+.container1 {
+
+	height: 10%;
+	width: 100%;
+	display: flex;
+}
+
+.container2 {
+
+	height: 20%;
+	width: 100%;
+	display: flex;
+	padding-bottom: 12px;
+}
+
+.container3 {
+
+	height: 10%;
+	width: 100%;
+	display: flex;
+}
+
+.container4 {
+
+	height: 10%;
+	width:100%;
+	display: flex;
+}
+
+.container5 {
+
+	height: 30%;
+	width: 100%;
+	padding-bottom: 30px;
+	display: flex;
+}
+
+.container6 {
+
+	height: 10%;
+	width: 100%;
+	padding-bottom: 40px;
+	display: flex;
+}
+
+.listlogo {
+
+	width: 30%;
+}
+
+.posh_text {
+
+	text-align: center;
+	width: 40%;
+}
+
+.cart {
+
+	width: 30%;
+}
+
+.ll {
+
+	height: 30px;
+	width: 30px;
+}
+
+.crt {
+
+	height: 30px;
+	width: 30px;
+	float: right;
+}
+
+.poshh {
+
+	font: bold 35px "Courier New", Courier, sans-serif;
+}
+
+.container1 .freespace {
+
+	width: 2%;
+}
+
+.container2 .freespace {
+
+	width: 20%;
+}
+
+.dropbtn {
+
+	background-color: gray;
+	color: white;
+	padding: 16px;
+	font-size: 16px;
+	border: none;
+}
+
+.dropdown {
+
+	position: relative;
+	display: inline-block;
+	width: 16%;
+}
+
+.dropdown-content {
+
+	display: none;
+	position: absolute;
+	background-color: #f1f1f1;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+}
+
+.dropdown-content a {
+
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown:hover .dropdown-content {
+
+	display: block;
+}
+
+.dropdown:hover .dropbtn {
+
+	background-color: green;
+}
+
+.container3 .freespace {
+
+	width: 10%;
+}
+
+.container4 .freespace {
+
+	width: 10%;
+}
+
+.back {
+
+	height: 400px;
+	width: 100%;
+}
+
+.best_picks {
+
+	background-color: green;
+	color: white;
+	font: bold 20px "Helvetica Neue", Helvetica, Times, sans-serif;
+	padding: 4px; 
+	border: 1px solid black;
+}
+
+.container5 .freespace {
+
+	width: 2.5%;
+}
+
+.summer {
+
+	border: 1px solid black;
+}
+
+.summer1 {
+
+	height: 230px;
+	width: 180px;
+
+}
+
+.container6 .freespace {
+
+	width: 40%;
+}
+
+.shopnow {
+
+	width: 13%;
+}
+
+.snbtn {
+
+	float: right;
+	background-color: green;
+	color: white;
+	background-repeat: no-repeat;
+	border: none;
+	padding: 5px;
+	cursor: pointer;
+	overflow: hidden;
+	outline: none;	
+}
+
+.footer {
+
+	text-align: center;
+	font-size: 20px;
+}
